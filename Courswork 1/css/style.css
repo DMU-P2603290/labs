@@ -1,0 +1,59 @@
+body{background-color: lightblue;
+}
+h1{
+  text-align: center;
+  background-color:Navy; color: #FAF0E6;}
+.text1{
+  text-align: center; background-color: #FAF0E6; color:#B0C4DE;}
+footer{
+  background-color: #191970; color: white;}
+h2{
+  text-align: center;
+  background-color: #B0C4DE; color: Navy;}
+img{
+  display: block;
+  margin: 0 auto;
+  border: 3px solid #191970}
+video{
+display: block;
+margin: 0 auto;}
+h3{
+  text-align: center;
+  background-color:#FAF0E6;}
+h4{
+  text-align: center;
+  background-color: #FAF0E6;}
+h5{
+  text-align: center;
+  background-color: #FAF0E6;}
+  .text2{
+    text-align: center;
+    background-color:Navy; color: #FAF0E6; }
+  .text3{
+  text-align: center;
+  background-color: #FAF0E6; color:#B0C4DE;}
+  .container{
+    display: flex;
+    align-items: center;}
+  .autio-col{
+  display: flex;
+  align-items: center;}
+  .box{
+    display: flex;
+    align-items: center;}
+  .text4{
+    text-align:center;
+    background-color: #B0C4DE; color: white;
+  }
+  .text5{
+    background-color: #FAF0E6; color:#B0C4DE;
+    display: inline;
+  }
+  .text6{
+    text-align:center;
+    background-color: #B0C4DE; color: white;
+  }
+.text7{
+  background-color: #FAF0E6; color:#B0C4DE;
+  display: inline;
+}
